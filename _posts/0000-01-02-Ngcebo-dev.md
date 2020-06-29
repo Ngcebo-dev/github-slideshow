@@ -1,5 +1,5 @@
-title:Slide 2
-" Welcome to slide 2"
+layout:Slide 2
+title:" Welcome to slide 2"
 
 -------------
 Click the left arrow to go back
